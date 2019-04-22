@@ -1,0 +1,23 @@
+--Ex2 (Output before virtual)
+4.5
+Red
+12.568
+12
+0
+Red
+Orange
+0
+-------------------------------
+--Ex2 (Output after virtual)
+4.5
+Red
+12.568
+12
+4.5
+Red
+Orange
+12
+------------------------------
+--Ex4 (Output after virtual)
+~triangle() called.
+~shape() called.
